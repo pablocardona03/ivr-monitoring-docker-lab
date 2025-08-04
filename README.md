@@ -90,8 +90,8 @@ Useful dashboard: [Grafana Dashboard ID 11074](https://grafana.com/grafana/dashb
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pablocardona03/parcialFinal.git
-cd parcialFinal
+[git clone https://github.com/pablocardona03/parcialFinal.git](https://github.com/pablocardona03/ivr-monitoring-docker-lab.git)
+cd ivr-monitoring-docker-lab
 ```
 
 2. Follow the instructions inside each folder for setup and testing.
